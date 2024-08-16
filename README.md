@@ -10,6 +10,8 @@ Este proyecto es un prototipo de aplicación web para la tienda de insumos médi
 
 Clona el repositorio en tu máquina local  si es necesari:
 
+git clone https://github.com/Adriel-Montano/Actividad_1.git
+
 ### 2.Importar el proyecto en IntelliJ IDEA
 *Abre IntelliJ IDEA y selecciona Open.
 
